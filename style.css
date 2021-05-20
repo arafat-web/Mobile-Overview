@@ -14,10 +14,11 @@ body {
   width: 600px;
 }
 /* .loader{
-  position: fixed;
+  position: absolute;
   z-index: 9999999;
   background: #fff;
   width: 100%;
+  left: 45%;
   height: 100%;
   top: calc(50vh - 75px);
   text-align: center;
